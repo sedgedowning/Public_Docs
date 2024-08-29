@@ -43,7 +43,7 @@ Level 3 MSPs typically deliver median financial performance and service quality.
 
 <details>
 
-<summary>Level 4: Optimizing</summary>
+<summary><strong>Level 4: Optimizing</strong></summary>
 
 At Level 4, MSPs demonstrate high financial and service quality performance. Traits that support improvement at this level include:
 
